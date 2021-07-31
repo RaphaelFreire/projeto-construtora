@@ -2840,6 +2840,10 @@ li.sub-menu--item.nav-item-has-children i {
   text-decoration: none;
 }
 
+.footer-phone{
+  color: #ffff;
+}
+
 .subscribe-newsletter {
   padding: 22px 30px 10px 30px;
   border-radius: 25px;
